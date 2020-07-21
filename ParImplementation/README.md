@@ -1,1 +1,1 @@
-# Implementación paralela
+# Implementación concurrente
